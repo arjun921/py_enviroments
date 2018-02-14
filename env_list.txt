@@ -1,0 +1,12 @@
+# conda environments:
+#
+PA                    *  /Users/arjun921/anaconda3/envs/PA
+ey                       /Users/arjun921/anaconda3/envs/ey
+her                      /Users/arjun921/anaconda3/envs/her
+idp                      /Users/arjun921/anaconda3/envs/idp
+idp2                     /Users/arjun921/anaconda3/envs/idp2
+idp3                     /Users/arjun921/anaconda3/envs/idp3
+raj                      /Users/arjun921/anaconda3/envs/raj
+raj3                     /Users/arjun921/anaconda3/envs/raj3
+root                     /Users/arjun921/anaconda3
+
